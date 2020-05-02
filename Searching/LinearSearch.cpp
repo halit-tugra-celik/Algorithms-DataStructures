@@ -21,7 +21,7 @@ void LinearSearch(){
 		if(arr[i] == s)//if we find s
 			result = i;//change result as index
 
-	if(result == -1){//if result didn't changed
+	if(result == -1){//if result didn't change
 		cout << "THERE ISN'T " << s << "IN THE ARRAY\n";
 		return; 	
 	}
