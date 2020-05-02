@@ -22,7 +22,7 @@ void LinearSearch(){
 			result = i;//change result as index
 
 	if(result == -1){//if result didn't change
-		cout << "THERE ISN'T " << s << "IN THE ARRAY\n";
+		cout << "THERE ISN'T " << s << " IN THE ARRAY\n";
 		return; 	
 	}
 	
