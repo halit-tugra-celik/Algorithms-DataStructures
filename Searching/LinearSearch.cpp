@@ -20,9 +20,9 @@ void LinearSearch(){
 			result = i;
 
 	if(result == -1){
-		cout << "THERE ISN'T " << s << " IN THE ARRAY\n";
+		cout << "Dizide " << s << "Yok! \n";
 		return; 	
 	}
 	
-	cout << s << " is in index " << result << '\n'; 
+	cout << s << " " << result << " indisinde \n"; 
 }
